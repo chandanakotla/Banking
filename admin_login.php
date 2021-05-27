@@ -16,7 +16,7 @@
 
 
 <body>
-    <form action="admin_login_action.php" method="post">
+    <form action="/admin_login_action.php" method="post">
         <div class="flex-container-1">
             <div class="flex-item">
                 <h2>Administrator Login</h2>
